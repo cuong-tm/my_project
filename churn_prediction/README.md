@@ -4,3 +4,5 @@
 - use xgboost classifier
 ## on production
 - build automation DAGs in airflow to predict user daily
+
+### Note: Due to corporate security, I cannot upload data and file build API here.

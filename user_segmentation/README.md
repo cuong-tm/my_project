@@ -4,3 +4,5 @@
 - use Kmeans to 4 clusters (file notebook)
 ## on production
 - build automation Dags in airflow segment user daily
+
+### Note: Due to corporate security, I cannot upload data and file build API here.

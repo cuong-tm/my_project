@@ -7,3 +7,5 @@
 ## API
 - build api in serverless (aws) to extract data
 - build api in google cloud (GCP) to load model and predict
+
+### Note: Due to corporate security, I cannot upload data and file build API here.

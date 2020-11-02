@@ -1,2 +1,6 @@
-# my_project
-Projects that I build at my company
+# user segmentation
+- cluster users into groups based on common characteristics to help business development team identify different users'behaviours and give appropriate actions
+## model
+- use Kmeans to 4 clusters (file notebook)
+## on production
+- build automation Dags in airflow segment user daily

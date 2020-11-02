@@ -1,5 +1,5 @@
 # churn prediction
-- Churn prediction was built to predict a client's ability to churn (stop order). To help Business development team to be able to come up with the actions for each customer set and attempt to reduce churn rate of customer.
+- Churn prediction model was built to predict a client's possibility to churn (stop order), to help Business development team come up with the actions for each customer and reduce churn rate of customer.
 ## model
 - use xgboost classifier
 ## on production
